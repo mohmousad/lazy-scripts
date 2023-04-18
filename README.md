@@ -6,8 +6,6 @@ Random JS scripts to be run in chrome's console to extract data or automate repe
 
 ## Scripts:
 
-### Youtube
-
-|                                               |                                                                                         |
+| Description                                   | Link                                                                                    |
 | --------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Bulk subscribe to YouTube channels of someone | [here](https://github.com/mohmousad/lazy-scripts/blob/master/Youtube/Bulk-Subscribe.js) |
