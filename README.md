@@ -4,7 +4,7 @@ Random JS scripts to be run in chrome's console to extract data or automate repe
 
 ![](https://raw.githubusercontent.com/mohmousad/lazy-scripts/master/cat.gif)
 
-## Scripts:
+## Scripts
 
 | Description                                   | Link                                                                                    |
 | --------------------------------------------- | --------------------------------------------------------------------------------------- |
