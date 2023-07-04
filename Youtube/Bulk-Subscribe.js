@@ -1,7 +1,7 @@
 /*
   Bulk subscribe to youtube channels of someone
     1. Go to https://www.youtube.com/<chanel name>/channels
-    2. Scroll to the end of the page (to load all the channels of the )
+    2. Scroll to the end of the page (to load all the channels of the required resource)
 */
 
 Array.from(document.querySelectorAll("[aria-label]"))
